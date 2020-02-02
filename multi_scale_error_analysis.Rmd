@@ -49,7 +49,7 @@ Configure the script here. As well as making sure all the libraries used below h
 ```{r initialise}
 
 # This directory needs to be set to the location of this script
-WORKING_DIR <- '~/mapping/projects/sppt/for_msea_paper'
+WORKING_DIR <- '~/C:/R/Github/Multi-Scale-Error-Analysis'
 setwd(WORKING_DIR)
 
 # These three parameters control the algorithm. The easiest way to generate some results relatively quickly
